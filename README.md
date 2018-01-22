@@ -228,4 +228,4 @@ public function img_file(Request $request)
 >-  如此一来，上传的图片所在目录为： `public/upload/image/{$date}/ `
 
 # ☺ 源码下载
->- [*** 源码下载提供 >>>***](http://download.csdn.net/download/u011415782/10186430)
+>- [源码下载提供 >>>](http://download.csdn.net/download/u011415782/10186430)
